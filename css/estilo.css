@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#topo {
+    background-color: rgb(100,149,237);
+}
+
+#menu {
+    background-color: rgb(0,191,255);
+}
+
+.destaques {
+    background-color: rgb(135,206,235);
+}
+
+#rodape {
+    background-color: rgb(176,196,222);
+}
+
+#logo {
+    background-image: url(../images/logo.png);
+    width: 150px;
+    height: 150px;
+}
