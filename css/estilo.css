@@ -6,10 +6,13 @@
 
 #topo {
     background-color: rgb(100,149,237);
+    color: red;
+    text-align: center;
 }
 
 #menu {
     background-color: rgb(0,191,255);
+
 }
 
 .destaques {
@@ -28,4 +31,17 @@
 
 main {
     background-color: blueviolet;
+}
+a {
+    text-decoration: none;
+
+}
+a:visited {
+    color: bisque;
+}
+a:hover {
+    background-color: black;
+    color: yellow;
+    font-size: 25px;
+    border: solid 5px;
 }
